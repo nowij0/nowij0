@@ -1,10 +1,10 @@
-<div align = "left">
+<div>
 
   ### :full_moon::four_leaf_clover: Jiwon
   <a href="https://velog.io/@moone_"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/moonone470@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </div>
 
-<hr>
+
 
 <div>
 
